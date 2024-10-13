@@ -1,4 +1,4 @@
-[![Java CI with Gradle](https://github.com/AngryCFO/AQA-API-CI/actions/workflows/gradle.yml/badge.svg)](https://github.com/AngryCFO/AQA-API-CI/actions/workflows/gradle.yml)
+[![Java CI with Gradle](https://github.com/AngryCFO/AQA-API-CI/actions/workflows/gradle.yml/badge.svg?branch=main)](https://github.com/AngryCFO/AQA-API-CI/actions/workflows/gradle.yml)
 [![Build status](https://ci.appveyor.com/api/projects/status/lp07ttbrfrlymee8/branch/main?svg=true)](https://ci.appveyor.com/project/AngryCFO/aqa-api-ci/branch/main)
 
 # 2.1 Домашнее задание к занятию «1.2. Тестирование API, CI» Задача 1-2.
